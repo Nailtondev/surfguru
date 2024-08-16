@@ -1,0 +1,145 @@
+* {
+    margin: 0;
+    border: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container_1 {
+    height: 100px;
+    background-color: rgba(0, 0, 0, 0.925);
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    position: sticky;
+    top: 0px;
+}
+
+.logo_m {
+    margin-top: 20px;
+    float: left;
+    list-style-type: none;
+    border: 100px;
+    padding: 0px;
+    margin-right: 0px;
+}
+
+ul {
+    list-style-type: none;
+    width: 1300px;
+}
+
+.menu {
+    float: left;
+    margin-top: 55px;
+    margin-right: 10px;
+    padding: 5px;
+}
+
+.orange {
+    background-color:orange;
+    text-align: center;
+    margin-top: 0;
+    color: white;
+    padding: 4px;
+}
+
+.loguin {
+    margin-top: 55px;
+    float: left;
+    list-style-type: none;
+    margin-right: 0px;
+}
+
+.assine {
+    background-color: orange;
+    padding: 10px 20px;
+    margin-top: 50px;
+    margin-right: 30px;
+    border-radius: 5px;
+    float: left;
+    list-style-type: none;
+    border: 0px;
+    margin-left: 10px;
+}
+
+.container_2, .container_3{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.previsao_dia_data {
+    margin-top: 40px;
+}
+
+.container_4 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 45px;
+    column-gap: 25px;
+}
+
+.container_5, .container_6, .container_7, .container_8, .container_9, .container_10, .container_11, .container_12, .container_13{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
+
+.titulo_branco {
+    color: white;
+    background-color: #0a2b55;
+    padding: 1.25rem;
+    width: 28.7em;
+    margin-right: 15.8em;
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+.noticia {
+    width: 16.5em;
+}
+
+.container_6, .container_9, .container_12 {
+    margin-right: 20em;
+}
+
+.descricao {
+    width: 12.5em;
+    margin-left: 0.5em;
+    margin-top: 0.5em;
+}
+
+
+.titulo_azul {
+    text-align: center;
+    color: #0a2b55;
+    background-color: #e1ebef;
+    padding: 0.7rem;
+    width: 44.5em;
+    margin-right: 23.7em;
+    margin-top: 2em;
+    border-radius: 5px;
+}
+
+.container_14 {
+    background-color: #212529;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 20em;
+    margin-top: 5em;
+}
+
+.azul{
+    margin-top: 3em;
+    color: #007bff;
+}
+
+.mais {
+    margin-top: 3em;
+    margin-right: 3em;
+}
